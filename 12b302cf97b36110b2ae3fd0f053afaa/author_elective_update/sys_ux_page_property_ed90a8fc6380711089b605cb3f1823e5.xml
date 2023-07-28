@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="MIM Impact Tracker">6590a8fc1180711079aa5259a8ead6df</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:34:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ed90a8fc6380711089b605cb3f1823e5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_page_property_ed90a8fc6380711089b605cb3f1823e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:34:24</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_979020_mim_imp_0.6590a8fc1180711079aa5259a8ead6df.root.wbApplicabilityConfigId</unique_name>
+        <value>de90e8fc97807110b2ae3fd0f053afc5</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=ed90a8fc6380711089b605cb3f1823e5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ux_page_property_ed90a8fc6380711089b605cb3f1823e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>sys_ux_applicability sys_id for Workspace audience</description><name>wbApplicabilityConfigId</name><page display_value="MIM Impact Tracker">6590a8fc1180711079aa5259a8ead6df</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 18:34:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>ed90a8fc6380711089b605cb3f1823e5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>wbApplicabilityConfigId</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ux_page_property_ed90a8fc6380711089b605cb3f1823e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 18:34:24</sys_updated_on><type>string</type><unique_name>x_979020_mim_imp_0.6590a8fc1180711079aa5259a8ead6df.root.wbApplicabilityConfigId</unique_name><value>de90e8fc97807110b2ae3fd0f053afc5</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=ed90a8fc6380711089b605cb3f1823e5"/></record_update>]]></payload>
+        <payload_hash>-1517551609</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:34:24</sys_created_on>
+        <sys_id>1e90e8fc97807110b2ae3fd0f053afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894b620c030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:34:24</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>5690e8fc9780711073d852c111e96aca</update_guid>
+        <update_guid_history>5690e8fc9780711073d852c111e96aca:-1517551609,1290e8fc8d8071107175ff20591f5ac9:1864901108</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 13:44:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>220d5f11d6e5465ea9d16913fa7a2241</sys_id>
+        <sys_metadata>ed90a8fc6380711089b605cb3f1823e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_ed90a8fc6380711089b605cb3f1823e5</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_ed90a8fc6380711089b605cb3f1823e5">1e90e8fc97807110b2ae3fd0f053afca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:44:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

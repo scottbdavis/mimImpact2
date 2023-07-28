@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Major Incident General Information" section_id="fcf1f3a097007110b2ae3fd0f053af6b" sys_domain="global" table="x_979020_mim_imp_0_mim_impact_table_2" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mim_calc_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>36557b6497007110b2ae3fd0f053afda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inc</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>3e557b6497007110b2ae3fd0f053afda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>32557b6497007110b2ae3fd0f053afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>36557b6497007110b2ae3fd0f053afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>3a557b6497007110b2ae3fd0f053afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mim_system</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>3e557b6497007110b2ae3fd0f053afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>32557b6497007110b2ae3fd0f053afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+            <sys_id>36557b6497007110b2ae3fd0f053afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Major Incident General Information</caption>
+            <header>false</header>
+            <name>x_979020_mim_imp_0_mim_impact_table_2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 15:10:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcf1f3a097007110b2ae3fd0f053af6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_979020_mim_imp_0_mim_impact_table_2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_ui_section_fcf1f3a097007110b2ae3fd0f053af6b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 15:10:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ui_section_fcf1f3a097007110b2ae3fd0f053af6b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Major Incident General Information" section_id="fcf1f3a097007110b2ae3fd0f053af6b" sys_domain="global" table="x_979020_mim_imp_0_mim_impact_table_2" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>mim_calc_id</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>36557b6497007110b2ae3fd0f053afda</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>inc</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>3e557b6497007110b2ae3fd0f053afda</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_by</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>32557b6497007110b2ae3fd0f053afdb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_by</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>36557b6497007110b2ae3fd0f053afdb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>3a557b6497007110b2ae3fd0f053afdb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>mim_system</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>3e557b6497007110b2ae3fd0f053afdb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>32557b6497007110b2ae3fd0f053afdc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_on</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:25:28</sys_created_on><sys_id>36557b6497007110b2ae3fd0f053afdc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Major Incident General Information" display_value="Major Incident General Information" name="x_979020_mim_imp_0_mim_impact_table_2" sys_domain="global" view="Default view">fcf1f3a097007110b2ae3fd0f053af6b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:25:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Major Incident General Information</caption><header>false</header><name>x_979020_mim_imp_0_mim_impact_table_2</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:10:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fcf1f3a097007110b2ae3fd0f053af6b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_979020_mim_imp_0_mim_impact_table_2</sys_name><sys_overrides/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ui_section_fcf1f3a097007110b2ae3fd0f053af6b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:10:35</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>336349463</payload_hash>
+        <record_name>MIM Impact Table 2</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 15:25:28</sys_created_on>
+        <sys_id>7a557b6497007110b2ae3fd0f053afde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894ab514fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:25:28</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>72557b64c30071102f58bf9adb545bde</update_guid>
+        <update_guid_history>72557b64c30071102f58bf9adb545bde:336349463,01f1f3a0260071103b298acf90d777c3:671578582</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:20:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>07048efd7b1344f5990a5d291fad0791</sys_id>
+        <sys_metadata>fcf1f3a097007110b2ae3fd0f053af6b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Major Incident General Information</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent display_value="">59b8676897cc3110b2ae3fd0f053aff8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ui_section_fcf1f3a097007110b2ae3fd0f053af6b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_fcf1f3a097007110b2ae3fd0f053af6b">7a557b6497007110b2ae3fd0f053afde</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:20:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

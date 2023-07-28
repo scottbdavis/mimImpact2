@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">f69a3be893007110c15485fcacea39e8</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 15:48:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe9a3be8ed0071104916aace6adb50e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>m2m_app_config_theme_fe9a3be8ed0071104916aace6adb50e8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:48:26</sys_updated_on>
+        <theme display_value="Light Theme">7a9a3be8130071102e3e7fb5621791e8</theme>
+        <ux_app_configuration display_value="MIM Impact Calculator Portal Config">ee9a3be897007110b2ae3fd0f053afad</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Incident and Problem Mgmt. Resolver Impa" section_id="83906cfc97807110b2ae3fd0f053af31" sys_domain="global" table="x_979020_mim_imp_0_mim_calc_data_3" version="3" view="Workspace-MIM-Impact-Tracker-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>of_va_incident_prb_mgmt_impacted</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_id>4f906cfc97807110b2ae3fd0f053af32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident and Problem Mgmt. Resolver Impa" display_value="Incident and Problem Mgmt. Resolver Impa" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="2590a8fcaa8071100bfc3e06e376a2e1">83906cfc97807110b2ae3fd0f053af31</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>average_estimated_time_impact_per_person_incident_prb_mgmt</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_id>43906cfc97807110b2ae3fd0f053af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident and Problem Mgmt. Resolver Impa" display_value="Incident and Problem Mgmt. Resolver Impa" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="2590a8fcaa8071100bfc3e06e376a2e1">83906cfc97807110b2ae3fd0f053af31</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_per_hour_of_tech_incident_and_problem_mgmt_resources</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_id>47906cfc97807110b2ae3fd0f053af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident and Problem Mgmt. Resolver Impa" display_value="Incident and Problem Mgmt. Resolver Impa" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="2590a8fcaa8071100bfc3e06e376a2e1">83906cfc97807110b2ae3fd0f053af31</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_id>4b906cfc97807110b2ae3fd0f053af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident and Problem Mgmt. Resolver Impa" display_value="Incident and Problem Mgmt. Resolver Impa" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="2590a8fcaa8071100bfc3e06e376a2e1">83906cfc97807110b2ae3fd0f053af31</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_incident_and_problem_mgmt_hours_impact</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_id>4f906cfc97807110b2ae3fd0f053af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident and Problem Mgmt. Resolver Impa" display_value="Incident and Problem Mgmt. Resolver Impa" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="2590a8fcaa8071100bfc3e06e376a2e1">83906cfc97807110b2ae3fd0f053af31</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_incident_and_problem_mgmt_cost_impact</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_id>43906cfc97807110b2ae3fd0f053af34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Incident and Problem Mgmt. Resolver Impa" display_value="Incident and Problem Mgmt. Resolver Impa" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="2590a8fcaa8071100bfc3e06e376a2e1">83906cfc97807110b2ae3fd0f053af31</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Incident and Problem Mgmt. Resolver Impa</caption>
+            <header>false</header>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83906cfc97807110b2ae3fd0f053af31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_979020_mim_imp_0_mim_calc_data_3</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_ui_section_83906cfc97807110b2ae3fd0f053af31</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace MIM Impact Tracker 0" name="Workspace-MIM-Impact-Tracker-0">2590a8fcaa8071100bfc3e06e376a2e1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

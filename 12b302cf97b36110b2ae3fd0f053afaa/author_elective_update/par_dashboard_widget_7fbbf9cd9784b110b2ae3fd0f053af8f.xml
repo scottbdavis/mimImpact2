@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">e590a8fc58807110d356f9ac4474a9df</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"configVersion":"22.1.8","showDataLabels":true,"disableTooltip":false,"showXGrid":true,"showYGrid":true,"xAxisTitle":"State of Calculator Records","hideYAxis0":false,"yAxis0Title":"Number of Records","yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"singleColor","values":[{"color":"65b3036ca9fe3dba0192f5580f3a64bc","metric":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA=="}]},"showMaximumRange":false,"chartVariation":"stacked","extensionType":"bar","dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"MIM Calc Data 3","sourceType":"table","tableOrViewName":"x_979020_mim_imp_0_mim_calc_data_3","id":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX2NhbGNfZGF0YV8zMTY4OTI3NzI4MDE3Mw==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Calculator Records by State","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX2NhbGNfZGF0YV8zMTY4OTI3NzI4MDE3Mw==","id":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA==","aggregateFunction":"COUNT(DISTINCT","numberFormat":{"customFormat":false},"axisId":"primary","aggregateField":"state"}],"groupBy":null,"sortBy":null,"sortByOrder":null,"trendBy":{"trendByFrequency":"date","trendByMinuteInterval":null,"trendByFields":[{"field":"sys_created_on","metric":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"refreshFrequency":false,"filterConfigurations":[],"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":null,"dateFormat":"default"}</component_props>
+        <h>13</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 19:51:07</sys_created_on>
+        <sys_id>7fbbf9cd9784b110b2ae3fd0f053af8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_widget_7fbbf9cd9784b110b2ae3fd0f053af8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 19:51:07</sys_updated_on>
+        <visualization/>
+        <w>2</w>
+        <x>1</x>
+        <y>2</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>par_dashboard_widget_7fbbf9cd9784b110b2ae3fd0f053af8f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">e590a8fc58807110d356f9ac4474a9df</canvas><component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component><component_props>{"configVersion":"22.1.8","showDataLabels":true,"disableTooltip":false,"showXGrid":true,"showYGrid":true,"xAxisTitle":"State of Calculator Records","hideYAxis0":false,"yAxis0Title":"Number of Records","yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"singleColor","values":[{"color":"65b3036ca9fe3dba0192f5580f3a64bc","metric":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA=="}]},"showMaximumRange":false,"chartVariation":"stacked","extensionType":"bar","dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"MIM Calc Data 3","sourceType":"table","tableOrViewName":"x_979020_mim_imp_0_mim_calc_data_3","id":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX2NhbGNfZGF0YV8zMTY4OTI3NzI4MDE3Mw==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Calculator Records by State","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX2NhbGNfZGF0YV8zMTY4OTI3NzI4MDE3Mw==","id":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA==","aggregateFunction":"COUNT(DISTINCT","numberFormat":{"customFormat":false},"axisId":"primary","aggregateField":"state"}],"groupBy":null,"sortBy":null,"sortByOrder":null,"trendBy":{"trendByFrequency":"date","trendByMinuteInterval":null,"trendByFields":[{"field":"sys_created_on","metric":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"refreshFrequency":false,"filterConfigurations":[],"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":null,"dateFormat":"default"}</component_props><h>13</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-13 19:51:07</sys_created_on><sys_id>7fbbf9cd9784b110b2ae3fd0f053af8f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>par_dashboard_widget_7fbbf9cd9784b110b2ae3fd0f053af8f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-13 19:51:07</sys_updated_on><visualization/><w>2</w><x>1</x><y>2</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1121823055</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 19:51:07</sys_created_on>
+        <sys_id>3bbbf9cd9784b110b2ae3fd0f053af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18950cea6100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 19:51:07</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>33bbf9cdc884b1102b26515a902e1091</update_guid>
+        <update_guid_history>33bbf9cdc884b1102b26515a902e1091:-1121823055</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9d1d394197c4b110b2ae3fd0f053affe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 19:56:57</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>ae2737a1a43f4b8c8127cbd843c59801</sys_id>
+        <sys_metadata>7fbbf9cd9784b110b2ae3fd0f053af8f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_7fbbf9cd9784b110b2ae3fd0f053af8f</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_7fbbf9cd9784b110b2ae3fd0f053af8f">3bbbf9cd9784b110b2ae3fd0f053af91</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 19:56:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

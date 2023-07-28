@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <description/>
+        <image display_value="ui-builder-templates-right-sidebar.svg">89ff424877311010d99bbc3f6810614e</image>
+        <label>Portal Main Content with Right Rail</label>
+        <macroponent display_value="Fixed Width Two-One">5eac2cf842c07110551985cd7993b111</macroponent>
+        <macroponent_config/>
+        <optional_properties/>
+        <order>0</order>
+        <required_properties/>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 19:27:07</sys_created_on>
+        <sys_id>92ac2cf8e5c071105d242c318df11912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Main Content with Right Rail</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_uib_template_92ac2cf8e5c071105d242c318df11912</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 19:27:07</sys_updated_on>
+        <type/>
+    </sys_uib_template>
+</record_update>

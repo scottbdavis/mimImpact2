@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">3bb597e4238c31101163f978cc6e9483</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"22.1.8","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"MIM Proto Data Set","sourceType":"table","tableOrViewName":"x_979020_mim_imp_0_mim_proto_data_set","id":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX3Byb3RvX2RhdGFfc2V0MTY4OTE2Nzc2ODcwNQ==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX3Byb3RvX2RhdGFfc2V0MTY4OTE2Nzc2ODcwNQ==","id":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDNCeWIzUnZYMlJoZEdGZmMyVjBNVFk0T1RFMk56YzJPRGN3TlE9PTE2ODkxNjc3NzAxNzg=","aggregateFunction":"SUM","axisId":"primary","aggregateField":"total_impact_business_partner_contractors_hours","durationFormat":{"customFormat":false},"label":"Total Impact Business Partner Hours"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":true,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 13:30:56</sys_created_on>
+        <sys_id>092b1fe8978c3110b2ae3fd0f053af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_widget_092b1fe8978c3110b2ae3fd0f053af54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:30:56</sys_updated_on>
+        <visualization/>
+        <w>2</w>
+        <x>0</x>
+        <y>29</y>
+    </par_dashboard_widget>
+</record_update>

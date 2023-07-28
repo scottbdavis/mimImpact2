@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data">
+    <sys_ux_composite_data action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_filter_label/>
+        <name>Custom Portal Catalog Item page - Related Items dataset</name>
+        <query_parameters/>
+        <required_roles/>
+        <sort_order/>
+        <sys_class_name>sys_ux_composite_data</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 19:27:08</sys_created_on>
+        <sys_id>96ac2cf88bc0711015edeed009b8850a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal Catalog Item page - Related Items dataset</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_composite_data_96ac2cf88bc0711015edeed009b8850a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 19:27:08</sys_updated_on>
+    </sys_ux_composite_data>
+</record_update>

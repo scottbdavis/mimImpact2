@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="MIM Impact Tracker Portal Config">1e846c899740b110b2ae3fd0f053afc2</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckhbbvlebuaaaaccddddhhhhhnqwpffceec",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "12b302cf97b36110b2ae3fd0f053afaa.GLIDE_FORM_1_SAVE_RELAY_d2846c899040b1100ecfed9b776235ef",
+  "sourceEventDefinition" : {
+    "apiName" : "12b302cf97b36110b2ae3fd0f053afaa.GLIDE_FORM_1_SAVE_RELAY_d2846c899040b1100ecfed9b776235ef",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SAVE",
+      "parentResourceId" : "glide_form_1",
+      "payload" : {
+        "type" : "JSON_LITERAL",
+        "value" : { }
+      }
+    },
+    "targetId" : "ckhbbvlebuaaaaccccddhhhhhsggddhkxpf",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckhbbvjtghhaaaabbeeddhhhhhslggaaaabbhm",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "12b302cf97b36110b2ae3fd0f053afaa.GLIDE_FORM_1_SET_MANDATORY_RELAY_d2846c899040b1100ecfed9b776235ef",
+  "sourceEventDefinition" : {
+    "apiName" : "12b302cf97b36110b2ae3fd0f053afaa.GLIDE_FORM_1_SET_MANDATORY_RELAY_d2846c899040b1100ecfed9b776235ef",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SET_MANDATORY",
+      "parentResourceId" : "glide_form_1",
+      "payload" : {
+        "type" : "JSON_LITERAL",
+        "value" : { }
+      }
+    },
+    "targetId" : "ckhbbvjtghhaaaabbddddhhhhhcmshhbbaabk",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckhbbvirmeeaaaaaarddhhhhhpeeygbabo",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "12b302cf97b36110b2ae3fd0f053afaa.GLIDE_FORM_1_SET_VALUE_RELAY_d2846c899040b1100ecfed9b776235ef",
+  "sourceEventDefinition" : {
+    "apiName" : "12b302cf97b36110b2ae3fd0f053afaa.GLIDE_FORM_1_SET_VALUE_RELAY_d2846c899040b1100ecfed9b776235ef",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : null,
+    "operation" : {
+      "dataBrokerId" : "dc6e87a5232200100e4bc50947bf654b",
+      "operationName" : "SET_VALUE",
+      "parentResourceId" : "glide_form_1",
+      "payload" : {
+        "type" : "JSON_LITERAL",
+        "value" : { }
+      }
+    },
+    "targetId" : "ckhbbvirmddaaaaaaqddhhhhhaauaehhivw",
+    "type" : "DATABROKER_OP"
+  } ]
+}, {
+  "eventMappingId" : "ckfejcxhhyaaaacceeddhhhbemzsynabb",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_979020_mim_imp_0.NAV_ITEM_SELECTED_RELAY_d2846c899040b1100ecfed9b776235ef",
+  "sourceEventDefinition" : {
+    "apiName" : "x_979020_mim_imp_0.NAV_ITEM_SELECTED_RELAY_d2846c899040b1100ecfed9b776235ef",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "route" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "route" ]
+            }
+          },
+          "fields" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fields" ]
+            }
+          },
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          },
+          "redirect" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "redirect" ]
+            }
+          },
+          "passiveNavigation" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "passiveNavigation" ]
+            }
+          },
+          "title" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "title" ]
+            }
+          },
+          "multiInstField" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "multiInstField" ]
+            }
+          },
+          "targetRoute" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "targetRoute" ]
+            }
+          },
+          "external" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "external" ]
+            }
+          }
+        }
+      },
+      "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
+    },
+    "operation" : null,
+    "targetId" : "ckfejcxhhyaaaaccddddhhhbzxegnyacc",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Tasks">d2846c899040b1100ecfed9b776235ef</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.approvalId",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Tasks Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">92846c89da40b110e7f89bfefa7c82f8</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Indicate your decision">1e846c89b740b1103cde0a0a237cb1f5</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-13 13:30:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d2846c89c540b110f3f7fde96a7699ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_screen_d2846c89c540b110f3f7fde96a7699ec</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:30:06</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d2846c89c540b110f3f7fde96a7699ec"/>
+</record_update>

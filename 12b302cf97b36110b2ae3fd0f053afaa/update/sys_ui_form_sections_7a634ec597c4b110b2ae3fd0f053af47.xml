@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7a634ec597c4b110b2ae3fd0f053af47" sys_domain="global" table="x_979020_mim_imp_0_mim_calc_data_3" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 20:24:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe634ec597c4b110b2ae3fd0f053af4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_979020_mim_imp_0_mim_calc_data_3" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">7a634ec597c4b110b2ae3fd0f053af47</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">fa634ec597c4b110b2ae3fd0f053af4a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 20:24:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 20:24:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6638ec597c4b110b2ae3fd0f053afde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_979020_mim_imp_0_mim_calc_data_3" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">7a634ec597c4b110b2ae3fd0f053af47</sys_ui_form>
+            <sys_ui_section caption="Business Partner Impacts" display_value="Business Partner Impacts" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">3a638ec597c4b110b2ae3fd0f053afdd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 20:24:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 20:24:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a638ec597c4b110b2ae3fd0f053afe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_979020_mim_imp_0_mim_calc_data_3" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">7a634ec597c4b110b2ae3fd0f053af47</sys_ui_form>
+            <sys_ui_section caption="Veteran and Dependent Impacts" display_value="Veteran and Dependent Impacts" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">ba638ec597c4b110b2ae3fd0f053afe2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 20:24:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 20:24:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa638ec597c4b110b2ae3fd0f053afe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_979020_mim_imp_0_mim_calc_data_3" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">7a634ec597c4b110b2ae3fd0f053af47</sys_ui_form>
+            <sys_ui_section caption="Major Incident Resolver Impacts" display_value="Major Incident Resolver Impacts" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">3e638ec597c4b110b2ae3fd0f053afe7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 20:24:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 20:24:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa63cec597c4b110b2ae3fd0f053af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_979020_mim_imp_0_mim_calc_data_3" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">7a634ec597c4b110b2ae3fd0f053af47</sys_ui_form>
+            <sys_ui_section caption="Total Impacts" display_value="Total Impacts" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">3e63cec597c4b110b2ae3fd0f053af05</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 20:24:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-13 20:24:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a634ec597c4b110b2ae3fd0f053af47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_979020_mim_imp_0_mim_calc_data_3</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7a634ec597c4b110b2ae3fd0f053af47</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-13 20:24:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace MIM Impact Tracker 3 0" name="Workspace-MIM-Impact-Tracker-3-0">e1634ec553c4b11041e9d3929e64ed16</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

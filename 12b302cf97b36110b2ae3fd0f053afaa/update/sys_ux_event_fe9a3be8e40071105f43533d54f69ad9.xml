@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_f69a3be8410071101b9e1d90be0510da</event_name>
+        <interfaces/>
+        <label>Link to destination Relay (Tasks Default)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"Remove previous URL from browser history"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background (advanced)"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title (advanced)"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi-instance field (advanced)"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub-navigation route (advanced)"},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 15:48:26</sys_created_on>
+        <sys_id>fe9a3be8e40071105f43533d54f69ad9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (Tasks Default)</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_event_fe9a3be8e40071105f43533d54f69ad9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:48:26</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe9a3be8e40071105f43533d54f69ad9"/>
+</record_update>

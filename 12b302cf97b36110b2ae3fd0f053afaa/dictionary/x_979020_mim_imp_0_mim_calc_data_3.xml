@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="39660cb497407110b2ae3fd0f053af67" label="MIM Calc Data 3" max_length="40" name="x_979020_mim_imp_0_mim_calc_data_3" text_index="true" type="collection">
+        <element label="Assigned to" max_length="40" name="assigned_to" type="string"/>
+        <element label="Average Estimated Time Impact (per person) - Dependents" max_length="15" name="average_estimated_time_impact_per_person_dependents" type="decimal"/>
+        <element label="Average Estimated Time Impact (per person) - Incident-Prb Mgmt." max_length="15" name="average_estimated_time_impact_per_person_incident_prb_mgmt" type="decimal"/>
+        <element label="Average Estimated Time Impact (per person in hours) - Contractor" max_length="15" name="average_estimated_time_impact_per_person_in_hours_contractor" type="decimal"/>
+        <element label="Average Estimated Time Impact (per person) - Tech-SME-SREs" max_length="15" name="average_estimated_time_impact_per_person_tech_sme_sres" type="decimal"/>
+        <element label="Average Estimated Time Impact (per person) - VA Staff" max_length="15" name="average_estimated_time_impact_per_person_va_staff" type="decimal"/>
+        <element label="Average Estimated Time Impact (per person) - Veterans" max_length="15" name="average_estimated_time_impact_per_person_veterans" type="decimal"/>
+        <element attributes="omit_sys_original=true" label="Cost per Hour of Dependents Impacted" max_length="20" name="cost_per_hour_of_dependents_impacted" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Cost per Hour of Tech Incident and Problem Mgmt. Resources" max_length="20" name="cost_per_hour_of_tech_incident_and_problem_mgmt_resources" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Cost per Hour of Tech SME and SRE Resources" max_length="20" name="cost_per_hour_of_tech_sme_and_sre_resources" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Cost per Hour of VA Business Partner Contractor Resources" max_length="20" name="cost_per_hour_of_va_business_partner_contractor_resources" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Cost per Hour of VA Business Partner VA Staff Resources" max_length="20" name="cost_per_hour_of_va_business_partner_va_staff_resources" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Cost per Hour of Veterans Impacted" max_length="20" name="cost_per_hour_of_veterans_impacted" type="currency"/>
+        <element label="INC #" max_length="40" name="inc" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="MIM System" max_length="40" name="mim_system" type="string"/>
+        <element label="Notes" max_length="40" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="# of Tech-SME-SREs Impacted" max_length="15" name="of_tech_sme_sres_impacted" type="decimal"/>
+        <element label="# of VA Business Partners Impacted: Contractors" max_length="15" name="of_va_business_partners_impacted_contractors" type="decimal"/>
+        <element label="# of VA Business Partners Impacted: VA Staff" max_length="15" name="of_va_business_partners_impacted_va_staff" type="decimal"/>
+        <element label="# of VA Incident-Prb Mgmt. Impacted" max_length="15" name="of_va_incident_prb_mgmt_impacted" type="decimal"/>
+        <element label="# of Veterans Impacted" max_length="15" name="of_veterans_impacted" type="decimal"/>
+        <element label="# of Veteran Dependents Impacted" max_length="15" name="of_veteran_dependents_impacted" type="decimal"/>
+        <element attributes="omit_sys_original=true" formula="sum(total_business_partner_va_staff_cost_impact, total_business_partner_contractor_cost_impact, total_veteran_cost_impact, total_dependent_cost_impact, total_incident_and_problem_mgmt_cost_impact, total_tech_sme_and_sre_cost_impact)" label="Overall Total Cost Impact" max_length="20" name="overall_total_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
+        <element formula="SUM(total_business_partner_va_staff_hours_impact, total_business_partner_contractor_hours_impact, total_veteran_hours_impact, total_dependent_hours_impact, total_incident_and_problem_mgmt_hours_impact, total_tech_sme_and_sre_hours_impact)" label="Overall Total Hours Impact" max_length="15" name="overall_total_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element label="Post MI Customer Survey" max_length="38" name="post_mi_customer_survey" type="decimal"/>
+        <element choice="3" default="open" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+                <element inactive_on_update="false" label="Awaiting Data" sequence="2" value="awaiting_data"/>
+                <element inactive_on_update="false" label="Approved" sequence="3" value="approved"/>
+                <element inactive_on_update="false" label="Closed" sequence="4" value="closed"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="omit_sys_original=true" formula="MULTIPLY(total_business_partner_contractor_hours_impact,cost_per_hour_of_va_business_partner_contractor_resources)" label="Total Business Partner Contractor Cost Impact" max_length="20" name="total_business_partner_contractor_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
+        <element formula="MULTIPLY(of_va_business_partners_impacted_contractors, average_estimated_time_impact_per_person_in_hours_contractor)" label="Total Business Partner Contractor Hours Impact" max_length="15" name="total_business_partner_contractor_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element formula="SUM(total_business_partner_va_staff_hours_impact,total_business_partner_contractor_hours_impact)" label="Total Business Partner Hour Impact" max_length="38" name="total_business_partner_hour_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element attributes="omit_sys_original=true" formula="MULTIPLY(total_business_partner_va_staff_hours_impact, cost_per_hour_of_va_business_partner_va_staff_resources)" label="Total Business Partner VA Staff Cost Impact" max_length="20" name="total_business_partner_va_staff_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
+        <element formula="MULTIPLY(of_va_business_partners_impacted_va_staff, average_estimated_time_impact_per_person_va_staff)" label="Total Business Partner VA Staff Hours Impact" max_length="15" name="total_business_partner_va_staff_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element attributes="omit_sys_original=true" formula="MULTIPLY(total_dependent_hours_impact, cost_per_hour_of_dependents_impacted)" label="Total Dependent Cost Impact" max_length="20" name="total_dependent_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
+        <element formula="MULTIPLY(of_veteran_dependents_impacted, average_estimated_time_impact_per_person_dependents)" label="Total Dependent Hours Impact" max_length="15" name="total_dependent_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element attributes="omit_sys_original=true" formula="MULTIPLY(total_incident_and_problem_mgmt_hours_impact, cost_per_hour_of_tech_incident_and_problem_mgmt_resources)" label="Total Incident and Problem Mgmt. Cost Impact" max_length="20" name="total_incident_and_problem_mgmt_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
+        <element formula="MULTIPLY(of_va_incident_prb_mgmt_impacted, average_estimated_time_impact_per_person_incident_prb_mgmt)" label="Total Incident and Problem Mgmt. Hours Impact" max_length="15" name="total_incident_and_problem_mgmt_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element formula="sum(total_incident_and_problem_mgmt_hours_impact, total_tech_sme_and_sre_hours_impact)" label="Total Incident Resolver Hour Impact" max_length="40" name="total_incident_resolver_impact" type="string" virtual="true" virtual_type="formula"/>
+        <element attributes="omit_sys_original=true" formula="MULTIPLY(total_tech_sme_and_sre_hours_impact, cost_per_hour_of_tech_sme_and_sre_resources)" label="Total Tech SME and SRE Cost Impact" max_length="20" name="total_tech_sme_and_sre_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
+        <element formula="MULTIPLY(of_tech_sme_sres_impacted, average_estimated_time_impact_per_person_tech_sme_sres)" label="Total Tech SME and SRE Hours Impact" max_length="15" name="total_tech_sme_and_sre_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element attributes="omit_sys_original=true" formula="MULTIPLY(total_veteran_hours_impact, cost_per_hour_of_veterans_impacted)" label="Total Veteran Cost Impact" max_length="20" name="total_veteran_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
+        <element formula="MULTIPLY(of_veterans_impacted, average_estimated_time_impact_per_person_veterans)" label="Total Veteran Hours Impact" max_length="15" name="total_veteran_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element formula="SUM(total_veteran_hours_impact, total_dependent_hours_impact)" label="Total Vet and Dep Hour Impact" max_length="38" name="total_veteran_hour_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">9eac2cf8efc071105f25e55e44d2110c</macroponent>
+        <name>handle_tab_filter_click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports, helpers}) {
+		const props = api.context.props;
+    helpers.navigate.to('search', {
+			searchTerm: props.searchTerm,
+			searchContextConfigId: props.searchContextConfigId
+    },
+		{
+			searchFilters: event.payload.selectedFilter,
+			facetFilters: props.facetFilters,
+			disableSpellCheck: props.disableSpellCheck
+		},
+		false,
+    false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 19:27:07</sys_created_on>
+        <sys_id>deac2cf863c07110b3b69c81d904c70a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_tab_filter_click</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_client_script_deac2cf863c07110b3b69c81d904c70a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 19:27:07</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">e590a8fc58807110d356f9ac4474a9df</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"configVersion":"22.1.8","showDataLabels":true,"disableTooltip":false,"showXGrid":true,"showYGrid":true,"xAxisTitle":"State of Calculator Records","hideYAxis0":false,"yAxis0Title":"Number of Records","yAxis0From":0,"yAxis0To":10,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"singleColor","values":[{"color":"65b3036ca9fe3dba0192f5580f3a64bc","metric":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA=="}]},"showMaximumRange":false,"chartVariation":"stacked","extensionType":"bar","dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"MIM Calc Data 3","sourceType":"table","tableOrViewName":"x_979020_mim_imp_0_mim_calc_data_3","id":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX2NhbGNfZGF0YV8zMTY4OTI3NzI4MDE3Mw==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"Calculator Records by State","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzk3OTAyMF9taW1faW1wXzBfbWltX2NhbGNfZGF0YV8zMTY4OTI3NzI4MDE3Mw==","id":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA==","aggregateFunction":"COUNT(DISTINCT","numberFormat":{"customFormat":false},"axisId":"primary","aggregateField":"state"}],"groupBy":null,"sortBy":null,"sortByOrder":null,"trendBy":{"trendByFrequency":"date","trendByMinuteInterval":null,"trendByFields":[{"field":"sys_created_on","metric":"ZEdGaWJHVjRYemszT1RBeU1GOXRhVzFmYVcxd1h6QmZiV2x0WDJOaGJHTmZaR0YwWVY4ek1UWTRPVEkzTnpJNE1ERTNNdz09MTY4OTI3NzI4MTcxMA=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"refreshFrequency":false,"filterConfigurations":[],"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":null,"dateFormat":"default"}</component_props>
+        <h>18</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 19:56:57</sys_created_on>
+        <sys_id>591df9cd9784b110b2ae3fd0f053af9c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_widget_591df9cd9784b110b2ae3fd0f053af9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:10:37</sys_updated_on>
+        <visualization/>
+        <w>3</w>
+        <x>1</x>
+        <y>3</y>
+    </par_dashboard_widget>
+</record_update>

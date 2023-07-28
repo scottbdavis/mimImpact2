@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="MIM Calc Data 3">76902cfc97807110b2ae3fd0f053af78</ais_search_source>
+        <label>MIM Calc Data 3</label>
+        <name>MIM Calc Data 3</name>
+        <order>100</order>
+        <search_context_config display_value="MIM Impact Tracker 3 AI Search Configuration">a5634ec5ffc4b110adccf9f5dc310a15</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 20:24:37</sys_created_on>
+        <sys_id>62638ec597c4b110b2ae3fd0f053af6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM Calc Data 3</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_search_filter_62638ec597c4b110b2ae3fd0f053af6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:24:37</sys_updated_on>
+    </sys_search_filter>
+</record_update>

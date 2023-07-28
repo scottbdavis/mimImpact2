@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Order success">1a846c896540b110da8874582893cef4</macroponent>
+        <name>Refresh submitted screen</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Reference Number : ",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+async function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    let {
+        table,
+        sysId,
+        number
+    } = api.context.props;
+    if(table !== "sc_request"){
+        api.setState("successNumber",number);
+        api.setState("successSysId",sysId);
+    }else{
+        api.setState("requestSysId",sysId);
+    }
+    let referenceLabl = await helpers.translate('Reference Number : ');
+    api.setState("referenceLabel",referenceLabl);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-13 13:30:08</sys_created_on>
+        <sys_id>d6846c892440b110cdc056c2a7dd9ef4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refresh submitted screen</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_client_script_d6846c892440b110cdc056c2a7dd9ef4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:30:08</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

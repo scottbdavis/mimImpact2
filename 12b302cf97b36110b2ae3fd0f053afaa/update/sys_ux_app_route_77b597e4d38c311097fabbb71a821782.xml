@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="MIM Impact Completion Tracker Config">f3b597e4988c311019b1edf5f8ef5a89</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>List</name>
+        <optional_parameters>listId,configId,tinyId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>list</route_type>
+        <screen_type display_value="List">f7b597e4c98c31109591b65fc5634884</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 13:07:24</sys_created_on>
+        <sys_id>77b597e4d38c311097fabbb71a821782</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_app_route_77b597e4d38c311097fabbb71a821782</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:07:24</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=77b597e4d38c311097fabbb71a821782"/>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>ee9a3be897007110b2ae3fd0f053afad</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>mim-impact-calculator-portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 15:48:28</sys_created_on>
+        <sys_id>fe9a3be8d1007110d1c7baad57b841d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM Impact Calculator Portal</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_page_registry_fe9a3be8d1007110d1c7baad57b841d5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:48:28</sys_updated_on>
+        <title>MIM Impact Calculator Portal</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ux_page_registry_fe9a3be8d1007110d1c7baad57b841d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>ee9a3be897007110b2ae3fd0f053afad</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>mim-impact-calculator-portal</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-07-12 15:48:28</sys_created_on><sys_id>fe9a3be8d1007110d1c7baad57b841d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MIM Impact Calculator Portal</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ux_page_registry_fe9a3be8d1007110d1c7baad57b841d5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-12 15:48:28</sys_updated_on><title>MIM Impact Calculator Portal</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-493289753</payload_hash>
+        <record_name>MIM Impact Calculator Portal</record_name>
+        <reverted_from/>
+        <source>e85fa13697332110b2ae3fd0f053af64</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-06 19:10:29</sys_created_on>
+        <sys_id>ceec64f897c07110b2ae3fd0f053aff3</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1892c9cec880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>8eec64f83cc071107697504e44fa8bf3</update_guid>
+        <update_guid_history>8eec64f83cc071107697504e44fa8bf3:-493289753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 19:28:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0fa45416bc37425f890fa80a533e1409</sys_id>
+        <sys_metadata>fe9a3be8d1007110d1c7baad57b841d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM Impact Calculator Portal</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_fe9a3be8d1007110d1c7baad57b841d5</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_fe9a3be8d1007110d1c7baad57b841d5">ceec64f897c07110b2ae3fd0f053aff3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 19:28:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
