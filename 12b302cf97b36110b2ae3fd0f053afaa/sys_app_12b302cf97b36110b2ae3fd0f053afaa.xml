@@ -14,7 +14,7 @@
         <license_model>none</license_model>
         <logo>87b3ce8f97b36110b2ae3fd0f053afda</logo>
         <menu/>
-        <name>MIM Impact Tracker</name>
+        <name>MIM Impact Tracker 5</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -29,16 +29,16 @@
         <sys_created_by>aes.creator</sys_created_by>
         <sys_created_on>2023-07-07 15:18:07</sys_created_on>
         <sys_id>12b302cf97b36110b2ae3fd0f053afaa</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>aes.creator</sys_updated_by>
-        <sys_updated_on>2023-07-07 15:18:10</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 20:40:44</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=12b302cf97b36110b2ae3fd0f053afaa"/>
     <sys_attachment action="INSERT_OR_UPDATE">
