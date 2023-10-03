@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_7a9a3be80f007110efbdbecad5d2e3d9</event_name>
+        <interfaces/>
+        <label>Page Add Notifications Relay (Preferences Default)</label>
+        <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 15:48:26</sys_created_on>
+        <sys_id>3a9a3be80e007110c17af895b231f9d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Page Add Notifications Relay (Preferences Default)</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_event_3a9a3be80e007110c17af895b231f9d9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:48:26</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=3a9a3be80e007110c17af895b231f9d9"/>
+</record_update>

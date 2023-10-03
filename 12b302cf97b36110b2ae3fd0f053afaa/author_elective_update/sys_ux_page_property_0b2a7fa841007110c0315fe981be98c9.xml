@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="MIM Impact Tracker 2">472a7fa87d007110309d7ab3dde262c6</page>
+        <required_translations>[ {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New MIM Impact Table 2",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 15:46:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0b2a7fa841007110c0315fe981be98c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_page_property_0b2a7fa841007110c0315fe981be98c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:46:36</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_979020_mim_imp_0.472a7fa87d007110309d7ab3dde262c6.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New MIM Impact Table 2"},"routeInfo":{"route":"record","fields":{"table":"x_979020_mim_imp_0_mim_impact_table_2","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_979020_mim_imp_0_mim_impact_table_2","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=0b2a7fa841007110c0315fe981be98c9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ux_page_property_0b2a7fa841007110c0315fe981be98c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="MIM Impact Tracker 2">472a7fa87d007110309d7ab3dde262c6</page><required_translations>[ {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New MIM Impact Table 2",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 15:46:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>0b2a7fa841007110c0315fe981be98c9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ux_page_property_0b2a7fa841007110c0315fe981be98c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 15:46:36</sys_updated_on><type>json</type><unique_name>x_979020_mim_imp_0.472a7fa87d007110309d7ab3dde262c6.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New MIM Impact Table 2"},"routeInfo":{"route":"record","fields":{"table":"x_979020_mim_imp_0_mim_impact_table_2","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_979020_mim_imp_0_mim_impact_table_2","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=0b2a7fa841007110c0315fe981be98c9"/></record_update>]]></payload>
+        <payload_hash>1138694702</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 15:46:36</sys_created_on>
+        <sys_id>183affa897007110b2ae3fd0f053af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894ac86eaf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:46:36</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>103affa8e90071107b17da6982d22925</update_guid>
+        <update_guid_history>103affa8e90071107b17da6982d22925:1138694702,d43affa87b0071101fa6f983ff6c1223:485361750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:20:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>34080c240bd644659d7874839bc4afe9</sys_id>
+        <sys_metadata>0b2a7fa841007110c0315fe981be98c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_0b2a7fa841007110c0315fe981be98c9</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_0b2a7fa841007110c0315fe981be98c9">183affa897007110b2ae3fd0f053af25</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:20:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="VA Business Partner Impact">ca97939097003110b2ae3fd0f053af3a</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-11 18:52:46</sys_created_on>
+        <sys_id>a93b1f5497003110b2ae3fd0f053af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.VA Business Partner Impact</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a93b1f5497003110b2ae3fd0f053af16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-11 18:52:46</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sc_cat_item_catalog_a93b1f5497003110b2ae3fd0f053af16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="VA Business Partner Impact">ca97939097003110b2ae3fd0f053af3a</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-11 18:52:46</sys_created_on><sys_id>a93b1f5497003110b2ae3fd0f053af16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.VA Business Partner Impact</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sc_cat_item_catalog_a93b1f5497003110b2ae3fd0f053af16</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-11 18:52:46</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-15619058</payload_hash>
+        <record_name>Service Catalog.VA Business Partner Impact</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-11 18:52:46</sys_created_on>
+        <sys_id>653b1f5497003110b2ae3fd0f053af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189464c819a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-11 18:52:46</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>e93b1f54c700311042b55420f5beda18</update_guid>
+        <update_guid_history>e93b1f54c700311042b55420f5beda18:-15619058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.VA Business Partner Impact">286bdf5497003110b2ae3fd0f053af7e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-11 18:53:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>79b89d5442a347d68042847ec3c49ea4</sys_id>
+        <sys_metadata>a93b1f5497003110b2ae3fd0f053af16</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.VA Business Partner Impact</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent display_value="">ca97939097003110b2ae3fd0f053af3a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_a93b1f5497003110b2ae3fd0f053af16</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_a93b1f5497003110b2ae3fd0f053af16">653b1f5497003110b2ae3fd0f053af19</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-11 18:53:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

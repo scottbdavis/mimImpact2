@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">f69a3be893007110c15485fcacea39e8</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">f29a3be8a200711043076436c9c099e3</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 15:48:26</sys_created_on>
+        <sys_id>769a3be87c0071105276a94cc5e023e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_769a3be87c0071105276a94cc5e023e3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:48:26</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="MIM Impact Calculator Tool">68ce987c97807110b2ae3fd0f053af73</sc_cat_item>
+        <sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:32:52</sys_created_on>
+        <sys_id>373064fc97807110b2ae3fd0f053af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.MIM Impact Calculator Tool</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_373064fc97807110b2ae3fd0f053af34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:32:52</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

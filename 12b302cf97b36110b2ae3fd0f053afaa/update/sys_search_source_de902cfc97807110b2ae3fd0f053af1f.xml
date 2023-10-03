@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_979020_mim_imp_0_mim_calc_data_3">active=true</condition>
+        <group/>
+        <name>MIM Impact Tracker - x_979020_mim_imp_0_mim_calc_d</name>
+        <roles/>
+        <source_table>x_979020_mim_imp_0_mim_calc_data_3</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:34:24</sys_created_on>
+        <sys_id>de902cfc97807110b2ae3fd0f053af1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM Impact Tracker - x_979020_mim_imp_0_mim_calc_d</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_search_source_de902cfc97807110b2ae3fd0f053af1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:34:24</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=de902cfc97807110b2ae3fd0f053af1f"/>
+</record_update>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="32e9fe035eb76110b4e978538f24ebb7" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_979020_mim_imp_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-07-07 19:14:57</sys_created_on>
+            <sys_id>76e9fe0361b76110e4ea86f0e4948ab7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f2e9fe0326b761103df1373261dceeb7">32e9fe035eb76110b4e978538f24ebb7</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-07-07 19:14:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-07-07 19:14:57</sys_created_on>
+            <sys_id>f6e9fe03f4b76110eab44e4883add4b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f2e9fe0326b761103df1373261dceeb7">32e9fe035eb76110b4e978538f24ebb7</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-07-07 19:14:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-07-07 19:14:57</sys_created_on>
+            <sys_id>72e9fe0345b7611003b63bc783c90fb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f2e9fe0326b761103df1373261dceeb7">32e9fe035eb76110b4e978538f24ebb7</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-07-07 19:14:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-07-07 19:14:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32e9fe035eb76110b4e978538f24ebb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_ui_section_32e9fe035eb76110b4e978538f24ebb7</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-07-07 19:14:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_979020_mim_imp_0)" name="custom_portal_settings_x_979020_mim_imp_0">f2e9fe0326b761103df1373261dceeb7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ui_section_32e9fe035eb76110b4e978538f24ebb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="32e9fe035eb76110b4e978538f24ebb7" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_979020_mim_imp_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-07-07 19:14:57</sys_created_on><sys_id>76e9fe0361b76110e4ea86f0e4948ab7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f2e9fe0326b761103df1373261dceeb7">32e9fe035eb76110b4e978538f24ebb7</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-07 19:14:57</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-07-07 19:14:57</sys_created_on><sys_id>f6e9fe03f4b76110eab44e4883add4b7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f2e9fe0326b761103df1373261dceeb7">32e9fe035eb76110b4e978538f24ebb7</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-07 19:14:57</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>system</sys_created_by><sys_created_on>2023-07-07 19:14:57</sys_created_on><sys_id>72e9fe0345b7611003b63bc783c90fb7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f2e9fe0326b761103df1373261dceeb7">32e9fe035eb76110b4e978538f24ebb7</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-07 19:14:57</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-07-07 19:14:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>32e9fe035eb76110b4e978538f24ebb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ui_section_32e9fe035eb76110b4e978538f24ebb7</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-07 19:14:57</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal settings (x_979020_mim_imp_0)" name="custom_portal_settings_x_979020_mim_imp_0">f2e9fe0326b761103df1373261dceeb7</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>164230428</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source>e85fa13697332110b2ae3fd0f053af64</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-06 19:10:29</sys_created_on>
+        <sys_id>56dcf6c397b76110b2ae3fd0f053af11</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1892c9cec880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>16dcf6c3f0b76110efed5faba5139211</update_guid>
+        <update_guid_history>16dcf6c3f0b76110efed5faba5139211:164230428</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-07 19:27:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1847d66df7b141cda9771586feeb0f09</sys_id>
+        <sys_metadata>32e9fe035eb76110b4e978538f24ebb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent display_value="Sys User">34ced832d423211095d7c105f1bf43eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ui_section_32e9fe035eb76110b4e978538f24ebb7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_32e9fe035eb76110b4e978538f24ebb7">56dcf6c397b76110b2ae3fd0f053af11</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-07 19:27:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

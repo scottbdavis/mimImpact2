@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="8390a8fc97807110b2ae3fd0f053afc8" sys_domain="global" table="x_979020_mim_imp_0_mim_calc_data_3" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8390a8fc97807110b2ae3fd0f053afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_979020_mim_imp_0_mim_calc_data_3</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8390a8fc97807110b2ae3fd0f053afc8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace-x 979020 mim imp 0-0" name="Workspace-x_979020_mim_imp_0-0">2590a8fcaa8071100bfc3e06e376a2e1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ui_form_sections_8390a8fc97807110b2ae3fd0f053afc8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="8390a8fc97807110b2ae3fd0f053afc8" sys_domain="global" table="x_979020_mim_imp_0_mim_calc_data_3" version="3"><sys_ui_form action="INSERT_OR_UPDATE"><name>x_979020_mim_imp_0_mim_calc_data_3</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 18:34:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8390a8fc97807110b2ae3fd0f053afc8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_979020_mim_imp_0_mim_calc_data_3</sys_name><sys_overrides/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ui_form_sections_8390a8fc97807110b2ae3fd0f053afc8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 18:34:27</sys_updated_on><sys_user/><view display_value="Workspace-x 979020 mim imp 0-0" name="Workspace-x_979020_mim_imp_0-0">2590a8fcaa8071100bfc3e06e376a2e1</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>277713053</payload_hash>
+        <record_name>MIM Calc Data 3</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:34:27</sys_created_on>
+        <sys_id>83902cfc97807110b2ae3fd0f053affa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894b6218540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:34:27</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>cb902cfcb2807110ad96584d46dc3bf9</update_guid>
+        <update_guid_history>cb902cfcb2807110ad96584d46dc3bf9:277713053</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 13:46:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>06289e610e51454e82976e3604f66781</sys_id>
+        <sys_metadata>8390a8fc97807110b2ae3fd0f053afc8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_979020_mim_imp_0_mim_calc_data_3</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent display_value="MIM Calc Data 3">39660cb497407110b2ae3fd0f053af67</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_8390a8fc97807110b2ae3fd0f053afc8</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_8390a8fc97807110b2ae3fd0f053afc8">83902cfc97807110b2ae3fd0f053affa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:46:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

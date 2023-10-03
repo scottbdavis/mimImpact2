@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">a5634ec5dec4b1100cff677cb7b36514</canvas>
+        <component display_value="">6083add31d71827a26ceadfcc4e31550</component>
+        <component_props>{"alt":"","src":"https://dev176185.service-now.com/x_979020_mim_imp_0.MIM%20Impact%20Banner.png","fit":"fill","position":"center center"}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 13:21:09</sys_created_on>
+        <sys_id>d11c2dd59704f110b2ae3fd0f053af49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_widget_d11c2dd59704f110b2ae3fd0f053af49</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:21:09</sys_updated_on>
+        <visualization/>
+        <w>5</w>
+        <x>6</x>
+        <y>2</y>
+    </par_dashboard_widget>
+</record_update>

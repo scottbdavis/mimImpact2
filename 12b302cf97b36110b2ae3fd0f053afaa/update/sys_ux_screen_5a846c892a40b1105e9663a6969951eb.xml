@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="MIM Impact Tracker Portal Config">1e846c899740b110b2ae3fd0f053afc2</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Attachment">5a846c89d240b110f5658001d10fdced</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "table" : "@context.props.table",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Attachment Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">92846c89da40b110e7f89bfefa7c82f8</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Attachments">5e846c89d040b110d2776bcc042b14f7</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-13 13:30:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a846c892a40b1105e9663a6969951eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_screen_5a846c892a40b1105e9663a6969951eb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-13 13:30:09</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a846c892a40b1105e9663a6969951eb"/>
+</record_update>

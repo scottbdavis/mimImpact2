@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Major Incident Impact Calculator">5ed1f20b97776110b2ae3fd0f053afab</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 12:35:54</sys_created_on>
+        <sys_id>728e4720978c3110b2ae3fd0f053afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Major Incident Impact Calculator</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_728e4720978c3110b2ae3fd0f053afb5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 12:35:54</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sc_cat_item_catalog_728e4720978c3110b2ae3fd0f053afb5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Major Incident Impact Calculator">5ed1f20b97776110b2ae3fd0f053afab</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 12:35:54</sys_created_on><sys_id>728e4720978c3110b2ae3fd0f053afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Major Incident Impact Calculator</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sc_cat_item_catalog_728e4720978c3110b2ae3fd0f053afb5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 12:35:54</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1679614320</payload_hash>
+        <record_name>Service Catalog.Major Incident Impact Calculator</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 12:35:54</sys_created_on>
+        <sys_id>368e4720978c3110b2ae3fd0f053afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894a19d64d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 12:35:54</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7e8e4720938c3110b8a2f39ebfdad7b7</update_guid>
+        <update_guid_history>7e8e4720938c3110b8a2f39ebfdad7b7:-1679614320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Major Incident Impact Calculator">0f8e4720978c3110b2ae3fd0f053aff2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 12:35:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>6e1e363814b74fc09898501fa41c8400</sys_id>
+        <sys_metadata>728e4720978c3110b2ae3fd0f053afb5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Major Incident Impact Calculator</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_728e4720978c3110b2ae3fd0f053afb5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_728e4720978c3110b2ae3fd0f053afb5">368e4720978c3110b2ae3fd0f053afb8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 12:35:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

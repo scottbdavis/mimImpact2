@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for MIM Impact Tracker</description>
+        <genius_result_assembly/>
+        <label>MIM Impact Tracker search profile</label>
+        <name>x_979020_mim_imp_0_aifoe_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:34:21</sys_created_on>
+        <sys_id>ad90a8fc128071104244168f440f4fe4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MIM Impact Tracker search profile</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>ais_search_profile_ad90a8fc128071104244168f440f4fe4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:34:26</sys_updated_on>
+    </ais_search_profile>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">fae9fe0345b761104aa74d1bbafeffa8</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-07 19:14:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b6e9fe03b9b7611056b035a89cfed4ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_page_property_b6e9fe03b9b7611056b035a89cfed4ab</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-07 19:14:55</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_979020_mim_imp_0.fae9fe0345b761104aa74d1bbafeffa8.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ux_page_property_b6e9fe03b9b7611056b035a89cfed4ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">fae9fe0345b761104aa74d1bbafeffa8</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-07-07 19:14:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>b6e9fe03b9b7611056b035a89cfed4ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ux_page_property_b6e9fe03b9b7611056b035a89cfed4ab</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-07 19:14:55</sys_updated_on><type>json</type><unique_name>x_979020_mim_imp_0.fae9fe0345b761104aa74d1bbafeffa8.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-549028679</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source>e85fa13697332110b2ae3fd0f053af64</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-06 19:10:29</sys_created_on>
+        <sys_id>209bfb2c97007110b2ae3fd0f053af1e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1892c9cec880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>ec9bfb2c4d0071104ad4930c236fa71d</update_guid>
+        <update_guid_history>ec9bfb2c4d0071104ad4930c236fa71d:-549028679</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 15:52:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2b561ed6491c4a728d2c53761e127404</sys_id>
+        <sys_metadata>b6e9fe03b9b7611056b035a89cfed4ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_b6e9fe03b9b7611056b035a89cfed4ab</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_b6e9fe03b9b7611056b035a89cfed4ab">209bfb2c97007110b2ae3fd0f053af1e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:52:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

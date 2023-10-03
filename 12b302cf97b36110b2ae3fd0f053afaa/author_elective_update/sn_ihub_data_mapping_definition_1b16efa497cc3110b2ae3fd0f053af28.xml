@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>82f0a7a097cc3110b2ae3fd0f053af2f</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 14:18:52</sys_created_on>
+        <sys_id>1b16efa497cc3110b2ae3fd0f053af28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_1b16efa497cc3110b2ae3fd0f053af28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 14:18:52</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sn_ihub_data_mapping_definition_1b16efa497cc3110b2ae3fd0f053af28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>82f0a7a097cc3110b2ae3fd0f053af2f</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 14:18:52</sys_created_on><sys_id>1b16efa497cc3110b2ae3fd0f053af28</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_1b16efa497cc3110b2ae3fd0f053af28</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 14:18:52</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>1608516258</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7ce12cb6d4a3211095d7c105f1bf439b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 14:22:04</sys_created_on>
+        <sys_id>0ad6abe497cc3110b2ae3fd0f053af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894a7b07420000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 14:22:04</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>46d6abe483cc3110c08a78e7bf159725</update_guid>
+        <update_guid_history>46d6abe483cc3110c08a78e7bf159725:0,1316efa4f0cc3110a0b947029b25fb2a:1734834889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c2d6abe497cc3110b2ae3fd0f053af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 14:22:04</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>0f1a93d80500492581507549cd16a551</sys_id>
+        <sys_metadata>1b16efa497cc3110b2ae3fd0f053af28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_1b16efa497cc3110b2ae3fd0f053af28</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_1b16efa497cc3110b2ae3fd0f053af28">0ad6abe497cc3110b2ae3fd0f053af25</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-12 14:22:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

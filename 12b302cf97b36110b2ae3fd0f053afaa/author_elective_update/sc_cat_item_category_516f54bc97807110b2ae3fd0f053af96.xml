@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="MIM Impact Calculator Tool">68ce987c97807110b2ae3fd0f053af73</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:29:08</sys_created_on>
+        <sys_id>516f54bc97807110b2ae3fd0f053af96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.MIM Impact Calculator Tool</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sc_cat_item_category_516f54bc97807110b2ae3fd0f053af96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:29:08</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sc_cat_item_category_516f54bc97807110b2ae3fd0f053af96</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="MIM Impact Calculator Tool">68ce987c97807110b2ae3fd0f053af73</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 18:29:08</sys_created_on><sys_id>516f54bc97807110b2ae3fd0f053af96</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departmental Services.MIM Impact Calculator Tool</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sc_cat_item_category_516f54bc97807110b2ae3fd0f053af96</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 18:29:08</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-940629388</payload_hash>
+        <record_name>Departmental Services.MIM Impact Calculator Tool</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:29:09</sys_created_on>
+        <sys_id>d96f54bc97807110b2ae3fd0f053af99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894b5d3d230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:29:09</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>516f54bc5b8071105614d59d6a26f899</update_guid>
+        <update_guid_history>516f54bc5b8071105614d59d6a26f899:-940629388</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services.MIM Impact Calculator Tool">ddcfd8bc97807110b2ae3fd0f053afc6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:30:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>43fd7a1eeea145e09440060300723900</sys_id>
+        <sys_metadata>516f54bc97807110b2ae3fd0f053af96</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.MIM Impact Calculator Tool</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_516f54bc97807110b2ae3fd0f053af96</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_516f54bc97807110b2ae3fd0f053af96">d96f54bc97807110b2ae3fd0f053af99</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:30:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

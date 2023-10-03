@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Main Configuration</description>
+        <name>chrome_main</name>
+        <page display_value="">6590a8fc1180711079aa5259a8ead6df</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:34:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2590a8fc438071102db8627f41ed9fdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_page_property_2590a8fc438071102db8627f41ed9fdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:34:21</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_979020_mim_imp_0.6590a8fc1180711079aa5259a8ead6df.root.chrome_main</unique_name>
+        <value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ux_page_property_2590a8fc438071102db8627f41ed9fdf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Main Configuration</description><name>chrome_main</name><page display_value="">6590a8fc1180711079aa5259a8ead6df</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 18:34:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>2590a8fc438071102db8627f41ed9fdf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_main</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ux_page_property_2590a8fc438071102db8627f41ed9fdf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 18:34:21</sys_updated_on><type>json</type><unique_name>x_979020_mim_imp_0.6590a8fc1180711079aa5259a8ead6df.root.chrome_main</unique_name><value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1534947974</payload_hash>
+        <record_name>chrome_main</record_name>
+        <reverted_from/>
+        <source>e85fa13697332110b2ae3fd0f053af64</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-06 19:10:29</sys_created_on>
+        <sys_id>5e71fd5d9704f110b2ae3fd0f053af7e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1892c9cec880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>1e71fd5d0804f1109ef7b8a5fef1c77e</update_guid>
+        <update_guid_history>1e71fd5d0804f1109ef7b8a5fef1c77e:1534947974</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 13:44:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0d43df9d4bba4509862ad977c5e11559</sys_id>
+        <sys_metadata>2590a8fc438071102db8627f41ed9fdf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_2590a8fc438071102db8627f41ed9fdf</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_2590a8fc438071102db8627f41ed9fdf">5e71fd5d9704f110b2ae3fd0f053af7e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:44:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

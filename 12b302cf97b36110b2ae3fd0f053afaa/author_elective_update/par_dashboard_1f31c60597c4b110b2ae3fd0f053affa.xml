@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard">
+    <par_dashboard action="DELETE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <name>MIM Impact Tracker 2</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 20:15:07</sys_created_on>
+        <sys_id>1f31c60597c4b110b2ae3fd0f053affa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM Impact Tracker 2</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_1f31c60597c4b110b2ae3fd0f053affa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:15:07</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>par_dashboard_1f31c60597c4b110b2ae3fd0f053affa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description/><experience/><name>MIM Impact Tracker 2</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-13 20:15:07</sys_created_on><sys_id>1f31c60597c4b110b2ae3fd0f053affa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MIM Impact Tracker 2</sys_name><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>par_dashboard_1f31c60597c4b110b2ae3fd0f053affa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-13 20:15:07</sys_updated_on><sys_ux_app_config/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+        <payload_hash>-4776877</payload_hash>
+        <record_name>MIM Impact Tracker 2</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 20:15:07</sys_created_on>
+        <sys_id>9331c60597c4b110b2ae3fd0f053affd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18950e49e730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:15:07</sys_updated_on>
+        <type>PAR Dashboard</type>
+        <update_guid>9b31c60506c4b1107360d5577fc343fc</update_guid>
+        <update_guid_history>9b31c60506c4b1107360d5577fc343fc:-4776877</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MIM Impact Tracker 2">a5514e4597c4b110b2ae3fd0f053af58</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 20:15:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard">par_dashboard</sys_db_object>
+        <sys_id>0313f66091f447328303b8746faeb8f9</sys_id>
+        <sys_metadata>1f31c60597c4b110b2ae3fd0f053affa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM Impact Tracker 2</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>par_dashboard_1f31c60597c4b110b2ae3fd0f053affa</sys_update_name>
+        <sys_update_version display_value="par_dashboard_1f31c60597c4b110b2ae3fd0f053affa">9331c60597c4b110b2ae3fd0f053affd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 20:15:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

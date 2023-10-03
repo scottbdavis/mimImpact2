@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "activity_stream_compose_1",
+  "elementLabel" : "Activity Stream Compose 1",
+  "propertyValues" : {
+    "sysId" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "sysId" ],
+        "category" : "props"
+      }
+    },
+    "useTabs" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "isNewRecord" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "title" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Compose",
+        "comment" : ""
+      }
+    },
+    "emailAction" : {
+      "type" : "JSON_LITERAL",
+      "value" : { }
+    },
+    "isSideBySideViewAvailable" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "isSideBySideViewEnabled" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "journalFieldSettings" : {
+      "type" : "JSON_LITERAL",
+      "value" : { }
+    },
+    "canPostMandatoryFields" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "allowJournalFieldSettingsOverrides" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "fields" : {
+      "type" : "JSON_LITERAL",
+      "value" : {
+        "comments" : {
+          "name" : "comments",
+          "label" : "Additional comments (Customer Visible)",
+          "sys_readonly" : false,
+          "readonly" : false,
+          "visible" : true,
+          "type" : "journal_input",
+          "maxLength" : 1000
+        }
+      }
+    },
+    "bare" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "table" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "table" ],
+        "category" : "props"
+      }
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : "Column 1",
+  "definition" : {
+    "id" : "77cb9632116e67049295c7c35d6a6147",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+}, {
+  "elementId" : "activity_stream_1",
+  "elementLabel" : "Activity Stream 1",
+  "propertyValues" : {
+    "showTileAvatars" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "sysId" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "sysId" ],
+        "category" : "props"
+      }
+    },
+    "suppressPreviewRecordForEmailActions" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "isNewRecord" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "title" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "Activity",
+        "comment" : ""
+      }
+    },
+    "view" : {
+      "type" : "TRANSLATION_LITERAL",
+      "value" : {
+        "code" : null,
+        "message" : "",
+        "comment" : ""
+      }
+    },
+    "userReferences" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "showConversationFilter" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "supplemental" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "ambChannels" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "bare" : {
+      "type" : "JSON_LITERAL",
+      "value" : true
+    },
+    "table" : {
+      "type" : "CONTEXT_BINDING",
+      "binding" : {
+        "address" : [ "table" ],
+        "category" : "props"
+      }
+    },
+    "showTileIcons" : {
+      "type" : "JSON_LITERAL",
+      "value" : false
+    },
+    "events" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "filterOptions" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    },
+    "timestamp" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : "Column 1",
+  "definition" : {
+    "id" : "821dfc11da1d0fb007579ccb53738fd5",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : {
+    "margin-top" : "1.5rem"
+  }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"slotName":"Column 1","rules":{"flex":"1","margin-right":"1rem"},"styles":{"display":"flex","flex-direction":"column"}},{"slotName":"Column 2","rules":{"flex":"1"},"styles":{"display":"flex","flex-direction":"column"}}],
+    "root" : null,
+    "rules" : {"flex-flow":"row nowrap","align-items":"stretch","min-height":"400px","height":"100%"},
+    "styles" : null,
+    "templateId" : "8374fc8153831010e6bcddeeff7b1267",
+    "type" : "flex"
+  },
+  "version" : "2.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Activity</name>
+        <output_prop_mapping/>
+        <props>[ {
+  "name" : "table",
+  "label" : "Table",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "sysId",
+  "label" : "sysId",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : null,
+  "description" : null,
+  "readOnly" : false,
+  "selectable" : false,
+  "disabled" : false
+} ]</props>
+        <required_translations>[ {
+  "message" : "Activity",
+  "comment" : ""
+}, {
+  "message" : "Additional comments (Customer Visible)",
+  "comment" : ""
+}, {
+  "message" : "Compose",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-12 20:47:46</sys_created_on>
+        <sys_id>4f1f347c8f047110df73fc54bd289442</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Activity</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_ux_macroponent_4f1f347c8f047110df73fc54bd289442</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 21:21:24</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=4f1f347c8f047110df73fc54bd289442"/>
+</record_update>

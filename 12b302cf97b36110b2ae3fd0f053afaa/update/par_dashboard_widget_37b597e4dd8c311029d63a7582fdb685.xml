@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">3bb597e4238c31101163f978cc6e9483</canvas>
+        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>2</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 13:07:23</sys_created_on>
+        <sys_id>37b597e4dd8c311029d63a7582fdb685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_widget_37b597e4dd8c311029d63a7582fdb685</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 13:07:23</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

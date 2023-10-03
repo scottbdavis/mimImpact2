@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Business Partners - Contractors" section_id="e91a254497803110b2ae3fd0f053afb7" sys_domain="global" table="x_979020_mim_imp_0_mim_proto_data_set" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>of_va_business_partners_impacted_contractors</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 12:42:18</sys_created_on>
+            <sys_id>24009f60978c3110b2ae3fd0f053af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 12:42:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>average_estimated_time_impact_per_person_contractor</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 12:42:18</sys_created_on>
+            <sys_id>28009f60978c3110b2ae3fd0f053af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 12:42:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact_lost_productivity_valuation_estimate_h</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 12:42:18</sys_created_on>
+            <sys_id>2c009f60978c3110b2ae3fd0f053af91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 12:42:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_impact_business_partner_contractors_hours</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-12 12:42:18</sys_created_on>
+            <sys_id>20009f60978c3110b2ae3fd0f053af92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-12 12:42:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Business Partners - Contractors</caption>
+            <header>false</header>
+            <name>x_979020_mim_imp_0_mim_proto_data_set</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 16:00:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e91a254497803110b2ae3fd0f053afb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_979020_mim_imp_0_mim_proto_data_set</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_ui_section_e91a254497803110b2ae3fd0f053afb7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 16:00:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>sys_ui_section_e91a254497803110b2ae3fd0f053afb7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Business Partners - Contractors" section_id="e91a254497803110b2ae3fd0f053afb7" sys_domain="global" table="x_979020_mim_imp_0_mim_proto_data_set" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>of_va_business_partners_impacted_contractors</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 12:42:18</sys_created_on><sys_id>24009f60978c3110b2ae3fd0f053af91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 12:42:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>average_estimated_time_impact_per_person_contractor</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 12:42:18</sys_created_on><sys_id>28009f60978c3110b2ae3fd0f053af91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 12:42:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>impact_lost_productivity_valuation_estimate_h</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 12:42:18</sys_created_on><sys_id>2c009f60978c3110b2ae3fd0f053af91</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 12:42:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>total_impact_business_partner_contractors_hours</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 12:42:18</sys_created_on><sys_id>20009f60978c3110b2ae3fd0f053af92</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Business Partners - Contractors" display_value="Business Partners - Contractors" name="x_979020_mim_imp_0_mim_proto_data_set" sys_domain="global" view="Default view">e91a254497803110b2ae3fd0f053afb7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 12:42:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Business Partners - Contractors</caption><header>false</header><name>x_979020_mim_imp_0_mim_proto_data_set</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-10 16:00:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e91a254497803110b2ae3fd0f053afb7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_979020_mim_imp_0_mim_proto_data_set</sys_name><sys_overrides/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>sys_ui_section_e91a254497803110b2ae3fd0f053afb7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-10 16:00:02</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>229094253</payload_hash>
+        <record_name>MIM Proto Data Set</record_name>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 12:42:18</sys_created_on>
+        <sys_id>ec009f60978c3110b2ae3fd0f053af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894a1fb29c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 12:42:18</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e4009f60678c31108fed85be393aa893</update_guid>
+        <update_guid_history>e4009f60678c31108fed85be393aa893:229094253,351a6544ad803110663cd39a1a072103:-158689149</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 15:27:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>a5771af9878943fe8bd183d6a60e4864</sys_id>
+        <sys_metadata>e91a254497803110b2ae3fd0f053afb7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Partners - Contractors</sys_name>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent display_value="">71b33a8b97776110b2ae3fd0f053af1e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e91a254497803110b2ae3fd0f053afb7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e91a254497803110b2ae3fd0f053afb7">ec009f60978c3110b2ae3fd0f053af93</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 15:27:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

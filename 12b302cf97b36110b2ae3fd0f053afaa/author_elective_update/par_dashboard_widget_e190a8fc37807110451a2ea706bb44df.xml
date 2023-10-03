@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">e590a8fc58807110d356f9ac4474a9df</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Task","sourceType":"table","tableOrViewName":"task","filterQuery":"active=true^assigned_toISEMPTY","id":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGs1TWpnM01BPT0xNjUzODQyMzc3NTI1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:34:22</sys_created_on>
+        <sys_id>e190a8fc37807110451a2ea706bb44df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_widget_e190a8fc37807110451a2ea706bb44df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:34:22</sys_updated_on>
+        <visualization/>
+        <w>4</w>
+        <x>4</x>
+        <y>2</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>par_dashboard_widget_e190a8fc37807110451a2ea706bb44df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">e590a8fc58807110d356f9ac4474a9df</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Task","sourceType":"table","tableOrViewName":"task","filterQuery":"active=true^assigned_toISEMPTY","id":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGs1TWpnM01BPT0xNjUzODQyMzc3NTI1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props><h>9</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-12 18:34:22</sys_created_on><sys_id>e190a8fc37807110451a2ea706bb44df</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>par_dashboard_widget_e190a8fc37807110451a2ea706bb44df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-12 18:34:22</sys_updated_on><visualization/><w>4</w><x>4</x><y>2</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>2107579185</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e85fa13697332110b2ae3fd0f053af64</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-06 19:10:29</sys_created_on>
+        <sys_id>ecd324f097c07110b2ae3fd0f053af56</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1892c9cec880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>acd324f006c07110ccbd8c022a51bf56</update_guid>
+        <update_guid_history>acd324f006c07110ccbd8c022a51bf56:2107579185</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">28d324f097c07110b2ae3fd0f053af58</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 18:48:29</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>7284788d9a2b4d0cb8763b50c18df890</sys_id>
+        <sys_metadata>e190a8fc37807110451a2ea706bb44df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_e190a8fc37807110451a2ea706bb44df</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_e190a8fc37807110451a2ea706bb44df">ecd324f097c07110b2ae3fd0f053af56</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 18:48:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

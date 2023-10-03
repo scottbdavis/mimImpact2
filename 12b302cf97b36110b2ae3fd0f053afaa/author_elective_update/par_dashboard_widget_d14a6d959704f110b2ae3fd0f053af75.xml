@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">a5634ec5dec4b1100cff677cb7b36514</canvas>
+        <component display_value="">6083add31d71827a26ceadfcc4e31550</component>
+        <component_props>{"alt":"","src":"","fit":"fill","position":"center center"}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 13:13:14</sys_created_on>
+        <sys_id>d14a6d959704f110b2ae3fd0f053af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>par_dashboard_widget_d14a6d959704f110b2ae3fd0f053af75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:13:14</sys_updated_on>
+        <visualization/>
+        <w>2</w>
+        <x>6</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</application>
+        <file_path/>
+        <instance_id>f85f2b07db13a594f697684e1396192f</instance_id>
+        <instance_name>dev176185</instance_name>
+        <name>par_dashboard_widget_d14a6d959704f110b2ae3fd0f053af75</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">a5634ec5dec4b1100cff677cb7b36514</canvas><component display_value="">6083add31d71827a26ceadfcc4e31550</component><component_props>{"alt":"","src":"","fit":"fill","position":"center center"}</component_props><h>10</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-14 13:13:14</sys_created_on><sys_id>d14a6d959704f110b2ae3fd0f053af75</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package><sys_policy/><sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope><sys_update_name>par_dashboard_widget_d14a6d959704f110b2ae3fd0f053af75</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-14 13:13:14</sys_updated_on><visualization/><w>2</w><x>6</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>909298271</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bab342cf97b36110b2ae3fd0f053af0b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 13:13:14</sys_created_on>
+        <sys_id>d94a6d959704f110b2ae3fd0f053af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1895488bc280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:13:14</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>d14a6d955304f110fa65d806a9855276</update_guid>
+        <update_guid_history>d14a6d955304f110fa65d806a9855276:909298271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2d1c29199704f110b2ae3fd0f053aff7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 13:21:10</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>34413cf9c299444592c56fe723fb3ad1</sys_id>
+        <sys_metadata>d14a6d959704f110b2ae3fd0f053af75</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope_delete display_value="">70094bd78a8b4223bbe46d988477a691</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_d14a6d959704f110b2ae3fd0f053af75</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_d14a6d959704f110b2ae3fd0f053af75">d94a6d959704f110b2ae3fd0f053af76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 13:21:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
