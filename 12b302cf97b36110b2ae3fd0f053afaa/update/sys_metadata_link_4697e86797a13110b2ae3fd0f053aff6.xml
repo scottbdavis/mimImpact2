@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>722be01797a13110b2ae3fd0f053afbd</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_979020_mim_imp_0_mim_calc_data_3">
+    <x_979020_mim_imp_0_mim_calc_data_3 action="INSERT_OR_UPDATE">
+        <assigned_to/>
+        <average_estimated_time_impact_per_person_dependents>1</average_estimated_time_impact_per_person_dependents>
+        <average_estimated_time_impact_per_person_in_hours_contractor>3.2</average_estimated_time_impact_per_person_in_hours_contractor>
+        <average_estimated_time_impact_per_person_incident_prb_mgmt>3.2</average_estimated_time_impact_per_person_incident_prb_mgmt>
+        <average_estimated_time_impact_per_person_tech_sme_sres>3.2</average_estimated_time_impact_per_person_tech_sme_sres>
+        <average_estimated_time_impact_per_person_va_staff>3.2</average_estimated_time_impact_per_person_va_staff>
+        <average_estimated_time_impact_per_person_veterans>1</average_estimated_time_impact_per_person_veterans>
+        <cost_per_hour_of_dependents_impacted>20</cost_per_hour_of_dependents_impacted>
+        <cost_per_hour_of_tech_incident_and_problem_mgmt_resources>50</cost_per_hour_of_tech_incident_and_problem_mgmt_resources>
+        <cost_per_hour_of_tech_sme_and_sre_resources>80</cost_per_hour_of_tech_sme_and_sre_resources>
+        <cost_per_hour_of_va_business_partner_contractor_resources>60</cost_per_hour_of_va_business_partner_contractor_resources>
+        <cost_per_hour_of_va_business_partner_va_staff_resources>50</cost_per_hour_of_va_business_partner_va_staff_resources>
+        <cost_per_hour_of_veterans_impacted>20</cost_per_hour_of_veterans_impacted>
+        <inc>27314391</inc>
+        <location>Multi-VISN</location>
+        <mim_system>Cerner Contact Card</mim_system>
+        <notes/>
+        <number>MIM0001154</number>
+        <of_tech_sme_sres_impacted>2</of_tech_sme_sres_impacted>
+        <of_va_business_partners_impacted_contractors>150</of_va_business_partners_impacted_contractors>
+        <of_va_business_partners_impacted_va_staff>300</of_va_business_partners_impacted_va_staff>
+        <of_va_incident_prb_mgmt_impacted>5</of_va_incident_prb_mgmt_impacted>
+        <of_veteran_dependents_impacted>20</of_veteran_dependents_impacted>
+        <of_veterans_impacted>1920</of_veterans_impacted>
+        <overall_total_cost_impact>116912</overall_total_cost_impact>
+        <overall_total_hours_impact>3402.4</overall_total_hours_impact>
+        <post_mi_customer_survey>6</post_mi_customer_survey>
+        <proble0/>
+        <problem>0069299</problem>
+        <state>open</state>
+        <sys_class_name>x_979020_mim_imp_0_mim_calc_data_3</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 03:21:39</sys_created_on>
+        <sys_id>722be01797a13110b2ae3fd0f053afbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 03:21:39</sys_updated_on>
+        <total_business_partner_contractor_cost_impact>28800</total_business_partner_contractor_cost_impact>
+        <total_business_partner_contractor_hours_impact>480</total_business_partner_contractor_hours_impact>
+        <total_business_partner_hour_impact>1440</total_business_partner_hour_impact>
+        <total_business_partner_va_staff_cost_impact>48000</total_business_partner_va_staff_cost_impact>
+        <total_business_partner_va_staff_hours_impact>960</total_business_partner_va_staff_hours_impact>
+        <total_dependent_cost_impact>400</total_dependent_cost_impact>
+        <total_dependent_hours_impact>20</total_dependent_hours_impact>
+        <total_incident_and_problem_mgmt_cost_impact>800</total_incident_and_problem_mgmt_cost_impact>
+        <total_incident_and_problem_mgmt_hours_impact>16</total_incident_and_problem_mgmt_hours_impact>
+        <total_incident_resolver_impact>22.4</total_incident_resolver_impact>
+        <total_tech_sme_and_sre_cost_impact>512</total_tech_sme_and_sre_cost_impact>
+        <total_tech_sme_and_sre_hours_impact>6.4</total_tech_sme_and_sre_hours_impact>
+        <total_veteran_cost_impact>38400</total_veteran_cost_impact>
+        <total_veteran_hour_impact>1940</total_veteran_hour_impact>
+        <total_veteran_hours_impact>1920</total_veteran_hours_impact>
+        <work_unit>Multi-VISN 3000</work_unit>
+    </x_979020_mim_imp_0_mim_calc_data_3>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 21:42:26</sys_created_on>
+        <sys_id>4697e86797a13110b2ae3fd0f053aff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MIM0001154</sys_name>
+        <sys_package display_value="MIM Impact Tracker 5" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MIM Impact Tracker 5">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_update_name>sys_metadata_link_4697e86797a13110b2ae3fd0f053aff6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 21:42:26</sys_updated_on>
+        <tablename>x_979020_mim_imp_0_mim_calc_data_3</tablename>
+    </sys_metadata_link>
+</record_update>
