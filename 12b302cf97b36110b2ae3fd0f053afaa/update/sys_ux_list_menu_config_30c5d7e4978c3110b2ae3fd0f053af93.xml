@@ -9,9 +9,9 @@
         <sys_id>30c5d7e4978c3110b2ae3fd0f053af93</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>MIM Impact Completion Tracker_menu_config</sys_name>
-        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_package display_value="MIM Impact Tracker 5" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
         <sys_policy/>
-        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope display_value="MIM Impact Tracker 5">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
         <sys_update_name>sys_ux_list_menu_config_30c5d7e4978c3110b2ae3fd0f053af93</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-12 13:07:26</sys_updated_on>

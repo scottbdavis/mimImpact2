@@ -40,9 +40,9 @@ function handler({
         <sys_id>92ac2cf8f0c071109149e40eca1cc10d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>On search</sys_name>
-        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_package display_value="MIM Impact Tracker 5" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
         <sys_policy/>
-        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope display_value="MIM Impact Tracker 5">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
         <sys_update_name>sys_ux_client_script_92ac2cf8f0c071109149e40eca1cc10d</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-07-12 19:27:08</sys_updated_on>

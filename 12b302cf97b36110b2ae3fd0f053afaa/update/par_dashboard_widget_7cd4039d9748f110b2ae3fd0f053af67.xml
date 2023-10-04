@@ -2,21 +2,21 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">a5634ec5dec4b1100cff677cb7b36514</canvas>
         <component display_value="">7219cee4e0177c3cf2e48d550ce0f71b</component>
-        <component_props>{"listTitle":"MIM Impact Calculator Records","table":"x_979020_mim_imp_0_mim_calc_data_3","query":"active=true","columns":"number,inc,mim_system,state,assigned_to,notes,post_mi_customer_survey,overall_total_hours_impact,overall_total_cost_impact,total_business_partner_hour_impact,total_veteran_hour_impact","groupByField":"","limit":11,"maxColumns":20,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":""}</component_props>
+        <component_props>{"listTitle":"MIM Impact Calculator Records","table":"x_979020_mim_imp_0_mim_calc_data_3","query":"active=true","columns":"number,inc,mim_system,location,work_unit,state,overall_total_hours_impact,overall_total_cost_impact,total_business_partner_hour_impact,total_veteran_hour_impact","groupByField":"","limit":11,"maxColumns":20,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":false,"hideColumnResizing":true,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":true,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":""}</component_props>
         <h>37</h>
         <name/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-14 19:48:53</sys_created_on>
         <sys_id>7cd4039d9748f110b2ae3fd0f053af67</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="MIM Impact Tracker" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+        <sys_package display_value="MIM Impact Tracker 5" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
         <sys_policy/>
-        <sys_scope display_value="MIM Impact Tracker">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+        <sys_scope display_value="MIM Impact Tracker 5">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
         <sys_update_name>par_dashboard_widget_7cd4039d9748f110b2ae3fd0f053af67</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-14 19:58:44</sys_updated_on>
+        <sys_updated_on>2023-10-03 03:53:05</sys_updated_on>
         <visualization/>
         <w>12</w>
         <x>0</x>
