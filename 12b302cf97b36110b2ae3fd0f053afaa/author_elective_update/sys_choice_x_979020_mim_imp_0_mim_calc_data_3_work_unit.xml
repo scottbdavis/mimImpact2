@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="work_unit" table="x_979020_mim_imp_0_mim_calc_data_3" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>work_unit</element>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>work_unit</sys_name>
+            <sys_package display_value="MIM Impact Tracker 5" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker 5">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_choice_x_979020_mim_imp_0_mim_calc_data_3_work_unit</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work Unit 25</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c02ce3b97113110b2ae3fd0f053af9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>Work Unit 25</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work Unit 50</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2402ce3b97113110b2ae3fd0f053afb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>Work Unit 50</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work Unit 100</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a002ce3b97113110b2ae3fd0f053afb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>Work Unit 100</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CBOC 100</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2002ce3b97113110b2ae3fd0f053afb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>CBOC 100</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Regional Office 200</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac02ce3b97113110b2ae3fd0f053afb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>Regional Office 200</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VAMC 500</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c02ce3b97113110b2ae3fd0f053afba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>VAMC 500</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VISN 1000</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a802ce3b97113110b2ae3fd0f053afbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>VISN 1000</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multi-VISN 3000</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2802ce3b97113110b2ae3fd0f053afbc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:40:15</sys_updated_on>
+            <value>Multi-VISN 3000</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_unit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>National 50000</label>
+            <language>en</language>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a402ce3b97113110b2ae3fd0f053afbd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:46:36</sys_updated_on>
+            <value>National 50000</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

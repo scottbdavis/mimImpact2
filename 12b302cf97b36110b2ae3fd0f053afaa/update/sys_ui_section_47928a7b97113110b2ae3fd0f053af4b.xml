@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Location and Business Unit" section_id="47928a7b97113110b2ae3fd0f053af4b" sys_domain="global" table="x_979020_mim_imp_0_mim_calc_data_3" version="3" view="Workspace-MIM-Impact-Tracker-3-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:42:53</sys_created_on>
+            <sys_id>8f928a7b97113110b2ae3fd0f053afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location and Business Unit" display_value="Location and Business Unit" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">47928a7b97113110b2ae3fd0f053af4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:42:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:42:53</sys_created_on>
+            <sys_id>47928a7b97113110b2ae3fd0f053afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location and Business Unit" display_value="Location and Business Unit" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">47928a7b97113110b2ae3fd0f053af4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:42:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_unit</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:42:53</sys_created_on>
+            <sys_id>c7928a7b97113110b2ae3fd0f053afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location and Business Unit" display_value="Location and Business Unit" name="x_979020_mim_imp_0_mim_calc_data_3" sys_domain="global" view="e1634ec553c4b11041e9d3929e64ed16">47928a7b97113110b2ae3fd0f053af4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:42:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Location and Business Unit</caption>
+            <header>false</header>
+            <name>x_979020_mim_imp_0_mim_calc_data_3</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-22 12:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47928a7b97113110b2ae3fd0f053af4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_979020_mim_imp_0_mim_calc_data_3</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MIM Impact Tracker 5" source="x_979020_mim_imp_0">12b302cf97b36110b2ae3fd0f053afaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MIM Impact Tracker 5">12b302cf97b36110b2ae3fd0f053afaa</sys_scope>
+            <sys_update_name>sys_ui_section_47928a7b97113110b2ae3fd0f053af4b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-22 12:42:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace MIM Impact Tracker 3 0" name="Workspace-MIM-Impact-Tracker-3-0">e1634ec553c4b11041e9d3929e64ed16</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

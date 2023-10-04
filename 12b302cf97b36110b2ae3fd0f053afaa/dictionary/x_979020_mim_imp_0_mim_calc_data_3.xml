@@ -14,6 +14,7 @@
         <element attributes="omit_sys_original=true" label="Cost per Hour of VA Business Partner VA Staff Resources" max_length="20" name="cost_per_hour_of_va_business_partner_va_staff_resources" type="currency"/>
         <element attributes="omit_sys_original=true" label="Cost per Hour of Veterans Impacted" max_length="20" name="cost_per_hour_of_veterans_impacted" type="currency"/>
         <element label="INC #" max_length="40" name="inc" type="integer"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="MIM System" max_length="40" name="mim_system" type="string"/>
         <element label="Notes" max_length="40" name="notes" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
@@ -26,6 +27,8 @@
         <element attributes="omit_sys_original=true" formula="sum(total_business_partner_va_staff_cost_impact, total_business_partner_contractor_cost_impact, total_veteran_cost_impact, total_dependent_cost_impact, total_incident_and_problem_mgmt_cost_impact, total_tech_sme_and_sre_cost_impact)" label="Overall Total Cost Impact" max_length="20" name="overall_total_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
         <element formula="SUM(total_business_partner_va_staff_hours_impact, total_business_partner_contractor_hours_impact, total_veteran_hours_impact, total_dependent_hours_impact, total_incident_and_problem_mgmt_hours_impact, total_tech_sme_and_sre_hours_impact)" label="Overall Total Hours Impact" max_length="15" name="overall_total_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
         <element label="Post MI Customer Survey" max_length="38" name="post_mi_customer_survey" type="decimal"/>
+        <element label="Problem #" max_length="255" name="proble0" type="integer"/>
+        <element label="Problem #" max_length="40" name="problem" type="string"/>
         <element choice="3" default="open" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
@@ -51,6 +54,19 @@
         <element attributes="omit_sys_original=true" formula="MULTIPLY(total_veteran_hours_impact, cost_per_hour_of_veterans_impacted)" label="Total Veteran Cost Impact" max_length="20" name="total_veteran_cost_impact" type="currency" virtual="true" virtual_type="formula"/>
         <element formula="MULTIPLY(of_veterans_impacted, average_estimated_time_impact_per_person_veterans)" label="Total Veteran Hours Impact" max_length="15" name="total_veteran_hours_impact" type="decimal" virtual="true" virtual_type="formula"/>
         <element formula="SUM(total_veteran_hours_impact, total_dependent_hours_impact)" label="Total Vet and Dep Hour Impact" max_length="38" name="total_veteran_hour_impact" type="decimal" virtual="true" virtual_type="formula"/>
+        <element choice="1" label="Work Unit" mandatory="true" max_length="40" name="work_unit" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Work Unit 25" sequence="0" value="Work Unit 25"/>
+                <element inactive_on_update="false" label="Work Unit 50" sequence="1" value="Work Unit 50"/>
+                <element inactive_on_update="false" label="Work Unit 100" sequence="2" value="Work Unit 100"/>
+                <element inactive_on_update="false" label="CBOC 100" sequence="3" value="CBOC 100"/>
+                <element inactive_on_update="false" label="Regional Office 200" sequence="4" value="Regional Office 200"/>
+                <element inactive_on_update="false" label="VAMC 500" sequence="5" value="VAMC 500"/>
+                <element inactive_on_update="false" label="VISN 1000" sequence="6" value="VISN 1000"/>
+                <element inactive_on_update="false" label="Multi-VISN 3000" sequence="7" value="Multi-VISN 3000"/>
+                <element inactive_on_update="false" label="National 50000" sequence="8" value="National 50000"/>
+            </choice>
+        </element>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
